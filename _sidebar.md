@@ -7,3 +7,4 @@
 
 * 婚戒
     * [女戒](doc/ring/female)
+    * [男戒](doc/ring/male)
